@@ -1,4 +1,4 @@
-<h1 align="center"> Palestra: "Desenvolvedor, cuidado! O seu aplicativo pode estar vulnerável" </h1>
+<h1 align="center"> Palestra: "Desenvolvedor, cuidado! O seu app pode estar vulnerável" </h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
